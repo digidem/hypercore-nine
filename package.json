@@ -1,0 +1,22 @@
+{
+  "name": "hypercore-nine",
+  "version": "0.0.0",
+  "description": "hypercore v9 with promise support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digidem/hypercore-nine.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digidem/hypercore-nine/issues"
+  },
+  "homepage": "https://github.com/digidem/hypercore-nine#readme",
+  "dependencies": {
+    "hypercore": "^9.12.0",
+    "hypercore-promisifier": "^1.1.0"
+  }
+}
