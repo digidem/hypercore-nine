@@ -1,8 +1,8 @@
 {
   "name": "hypercore-nine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hypercore v9 with promise support",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
